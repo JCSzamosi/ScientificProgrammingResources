@@ -6,7 +6,7 @@ Local Resources
 
 * [McMaster R users mailing list](https://mailman.mcmaster.ca/mailman/listinfo/r-users-l): A general discussion listserv for getting and giving help with R
 * Biodata Lunch: a weekly informal discussion group where people can get help with data analysis. Typically one person presents each week.
-	* Fridays at 12:30 in LSB 213A, unless otherwise specified.
+	* Tuesdays at 12:30 in LSB 213A, unless otherwise specified.
     * Join the [mailing list](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) for reminders and announcements (low traffic)
 	* Email <a href="mailto:bolker@mcmaster.ca">Ben Bolker</a> if you have a problem you want to present and get help on.
 * [Bioinformatics &amp;
