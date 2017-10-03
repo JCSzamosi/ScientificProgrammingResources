@@ -22,7 +22,7 @@ Software Carpentry
 * [Software Carpentry lessons](https://software-carpentry.org/lessons/)
 * [Map of upcoming Software Carpentry
 workshops](https://software-carpentry.org/workshops/)
-* The [Good Enough Scientific
+* The [Good Enough Practices in Scientific
 Computing](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
 document offers excellent advice on data management, project organization,
 record-keeping, and more.
