@@ -27,12 +27,25 @@ Computing](https://swcarpentry.github.io/good-enough-practices-in-scientific-com
 document offers excellent advice on data management, project organization,
 record-keeping, and more.
 
-Web resources
-------------------
+R Web resources
+---------------
 
 It's impossible to catalogue or curate all of the R resources available on the web. Here are a *small* number of potentially useful links:
 
 * the RStudio web site offers a variety of [cheatsheets](https://www.rstudio.com/resources/cheatsheets/), mostly but not exclusively tidyverse-oriented
 * there are some more in the "short documents and reference cards" section of the [CRAN contributed documentation page](https://cran.r-project.org/other-docs.html)
 * CRAN [task views](https://cran.r-project.org/web/views/) are (relatively) short guides to available R tools, organized by subject area (e.g. [econometrics](https://cran.r-project.org/web/views/Econometrics.html) or [psychometrics](https://cran.r-project.org/web/views/Psychometrics.html)) (Barry Rowlingson offers a fun [graphical version](http://www.maths.lancs.ac.uk/~rowlings/R/TaskViews/) of the same set of links)
+* The CRAN [R graph gallery(https://www.r-graph-gallery.com/) provides example
+code for a wide variety of plots, and is a great place to start when you're
+making a new graph
 * the [[r] tag on StackOverflow](https://stackoverflow.com/questions/tagged/r?filter=all&sort=active)
+
+Other Web resources
+-------------------
+
+* Here is a [blog
+post](https://medium.com/@robaboukhalil/how-to-fix-excels-gene-to-date-conversion-5c98d0072450)
+about managing gene names in excel.
+* To get an academic account on GitHub, go [here](https://education.github.com)
+* Using a Git repository to [manage Word
+documents](http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git)
