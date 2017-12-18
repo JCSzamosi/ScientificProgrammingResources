@@ -35,7 +35,7 @@ It's impossible to catalogue or curate all of the R resources available on the w
 * the RStudio web site offers a variety of [cheatsheets](https://www.rstudio.com/resources/cheatsheets/), mostly but not exclusively tidyverse-oriented
 * there are some more in the "short documents and reference cards" section of the [CRAN contributed documentation page](https://cran.r-project.org/other-docs.html)
 * CRAN [task views](https://cran.r-project.org/web/views/) are (relatively) short guides to available R tools, organized by subject area (e.g. [econometrics](https://cran.r-project.org/web/views/Econometrics.html) or [psychometrics](https://cran.r-project.org/web/views/Psychometrics.html)) (Barry Rowlingson offers a fun [graphical version](http://www.maths.lancs.ac.uk/~rowlings/R/TaskViews/) of the same set of links)
-* The CRAN [R graph gallery(https://www.r-graph-gallery.com/) provides example
+* The CRAN [R graph gallery](https://www.r-graph-gallery.com/) provides example
 code for a wide variety of plots, and is a great place to start when you're
 making a new graph
 * the [[r] tag on StackOverflow](https://stackoverflow.com/questions/tagged/r?filter=all&sort=active)
