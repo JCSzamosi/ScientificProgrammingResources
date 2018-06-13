@@ -6,7 +6,7 @@ Local Resources
 
 * [McMaster R users mailing list](https://mailman.mcmaster.ca/mailman/listinfo/r-users-l): A general discussion listserv for getting and giving help with R
 * Biodata Lunch: a weekly informal discussion group where people can get help with data analysis. Typically one person presents each week.
-	* Tuesdays at 12:30 in LSB 213A, unless otherwise specified.
+	* Fridays at 12:30 in LSB 213A, unless otherwise specified.
     * Join the [mailing list](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) for reminders and announcements (low traffic)
 	* Email <a href="mailto:bolker@mcmaster.ca">Ben Bolker</a> if you have a problem you want to present and get help on.
 * [Bioinformatics &amp;
@@ -16,10 +16,11 @@ No homework, no presenting, just get together with like-minding folk and talk
 shop. 
 	* Third Fridays at 4pm at the Phoenix.
 
-Software Carpentry
-------------------
+Software/Data Carpentry
+-----------------------
 
 * [Software Carpentry lessons](https://software-carpentry.org/lessons/)
+* [Data Carpentry lessons](http://www.datacarpentry.org/lessons/)
 * [Map of upcoming Software Carpentry
 workshops](https://software-carpentry.org/workshops/)
 * The [Good Enough Practices in Scientific
